@@ -1,5 +1,0 @@
-📋 Partes clave:
-- private: Solo accesible dentro de la clase.
-- public: Accesible desde cualquier parte del programa.
-- FCampo1: Por convención, los campos privados empiezan con F.
-
