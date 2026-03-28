@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="arbolids.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="224"/>
+        <CursorPos X="92" Y="238"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Arreglos\ArregloDeListas.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="68"/>
+        <CursorPos X="64" Y="17"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="arbolids.lpr"/>
+        <Caret Line="277" Column="28" TopLine="266"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolids.lpr"/>
+        <Caret Line="270" Column="3" TopLine="257"/>
+      </Position>
+      <Position>
+        <Filename Value="..\Arreglos\ArregloDeListas.pas"/>
+        <Caret Line="17" Column="61"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
