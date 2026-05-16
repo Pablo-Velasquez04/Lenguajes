@@ -1,0 +1,18 @@
+#!/bin/bash
+
+file="$1"
+
+# Ensamblar
+aarch64-linux-gnu-as "$file.s" -o "$file.o"
+
+# Lincar
+aarch64-linux-gnu-ld "$file.o" -o "$file" -e _start
+
+# Ejecutar con QEMU
+qemu-aarch64 "./$file"
+echo $?
+
+# Limpiar archivos
+rm "$file.o" "$file"
+
+
